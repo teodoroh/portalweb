@@ -3,14 +3,14 @@ html,body {
 }
 
 header {
-		
+
 	display:block;
-	background:#286af0;
+	background:gray;
 	padding:10px 0px;
 }
 section {
 	width: 79%;
-	background: #ccc;
+	background: white;
 	float: left;
 	overflow: auto;
 	padding-bottom: 60px;
@@ -28,10 +28,10 @@ aside {
 footer {
 	position: relative;
 	margin-top: -50px;
-	height: 40px; 
+	height: 40px;
 	padding:5px 0px;
 	clear: both;
-	background: #286af0;
+	background: red;
 	text-align: center;
 	color: #fff;
 }
